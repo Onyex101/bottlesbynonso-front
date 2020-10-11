@@ -1,0 +1,319 @@
+{
+    "slider-data": [
+        {
+            "id": 1,
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/photo/home-1.jpg",
+            "position": "right",
+            "header": "Blouses & Tops",
+            "sub-header": "Our all-time favourites",
+            "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pit",
+            "link": "/"
+        },
+        {
+            "id": 2,
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/photo/home-5.jpg",
+            "position": "left",
+            "header": "Blouses & Tops",
+            "sub-header": "Our all-time favourites",
+            "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pit",
+            "link": "/"
+        },
+        {
+            "id": 3,
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/photo/home-2.jpg",
+            "position": "center",
+            "header": "Linen and denim",
+            "sub-header": "Blue & White",
+            "content": "",
+            "link": "/"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "sub-heading": "Denim & parkas",
+            "heading": "Jackets",
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/category-jackets-3-colour-bg-2.jpg",
+            "bg-Color": "#c6d5ea",
+            "color": "#425c81",
+            "link-name": ""
+        },
+        {
+            "id": 2,
+            "sub-heading": "Get ready for winter",
+            "heading": "Coats",
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/category-coats-2-colour-bg-2.jpg",
+            "bg-Color": "#fce6e8",
+            "color": "#94585e",
+            "link-name": ""
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "white Tee",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0987188250_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0987188250_2_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0950354513_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0950354513_2_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0027211800_1_2_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0027211800_2_1_1.jpg"
+            ],
+            "price": 90,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": ["jeans"],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        },
+        {
+            "id": 2,
+            "name": "Black blouse",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0950354513_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0950354513_2_1_1.jpg"
+            ],
+            "price": 60,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": [],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        },
+        {
+            "id": 3,
+            "name": "College Jacket",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/5161335400_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/5161335400_2_3_1.jpg"
+            ],
+            "price": 30,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": [],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        },
+        {
+            "id": 4,
+            "name": "Carrot-fit jeans",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0027211800_1_2_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0027211800_2_1_1.jpg"
+            ],
+            "price": 94,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": [],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        },
+        {
+            "id": 5,
+            "name": "Striped T-Shirt",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0144074800_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0144074800_2_1_1.jpg"
+            ],
+            "price": 40,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": [],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        },
+        {
+            "id": 6,
+            "name": "Ethnic Sweater",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0364326148_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0364326148_2_1_1.jpg"
+            ],
+            "price": 30,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": [],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        },
+        {
+            "id": 7,
+            "name": "Short top",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0693492802_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0693492802_2_1_1.jpg"
+            ],
+            "price": 40,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": [],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        },
+        {
+            "id": 8,
+            "name": "Beige",
+            "description": "Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.",
+            "product-images": [
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0931168712_1_1_1.jpg",
+                "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/0931168712_2_1_1.jpg"
+            ],
+            "price": 50,
+            "quantity": 200,
+            "count": 0,
+            "star-rating": 4,
+            "category": [],
+            "size": [],
+            "type": [],
+            "sold-out": false
+        }
+    ],
+    "service-footer": [
+        {
+            "id": 1,
+            "sub-heading": "Denim & parkas",
+            "heading": "Jackets",
+            "icon": "shipping"
+        },
+        {
+            "id": 2,
+            "sub-heading": "Denim & parkas",
+            "heading": "Jackets",
+            "icon": "shipping"
+        },
+        {
+            "id": 3,
+            "sub-heading": "Denim & parkas",
+            "heading": "Jackets",
+            "icon": "shipping"
+        },
+        {
+            "id": 4,
+            "sub-heading": "Denim & parkas",
+            "heading": "Jackets",
+            "icon": "shipping"
+        }
+    ],
+    "cart-items": [
+        {
+            "id": 0,
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/product-square-ian-dooley-347968-unsplash.jpg",
+            "name": "Skull Tee",
+            "size": "Large",
+            "color": "Green",
+            "price": 65.00,
+            "status": "In stoxk",
+            "count": 4,
+            "total-price": 300.00
+        },
+        {
+            "id": 1,
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/product-square-kyle-loftus-596319-unsplash.jpg",
+            "name": "Transparent Blouse",
+            "size": "Medium",
+            "color": "Orange",
+            "price": 85.00,
+            "status": "Out of stock",
+            "count": 4,
+            "total-price": 300.00
+        },
+        {
+            "id": 2,
+            "image": "https://d19m59y37dris4.cloudfront.net/varkala/1-2/img/product/product-square-serrah-galos-494312-unsplash.jpg",
+            "name": "White Tee",
+            "size": "Small",
+            "color": "Green",
+            "price": 55.00,
+            "status": "Being restocked",
+            "count": 4,
+            "total-price": 300.00
+        }
+    ],
+    "footer-links": [
+        {
+            "title": "Shop",
+            "links": [
+                {
+                    "to": "#",
+                    "link": "For Women"
+                },
+                {
+                    "to": "#",
+                    "link": "For Men"
+                },
+                {
+                    "to": "#",
+                    "link": "Shop"
+                },
+                {
+                    "to": "#",
+                    "link": "Order"
+                }
+            ]
+        },
+        {
+            "title": "Company",
+            "links": [
+                {
+                    "to": "#",
+                    "link": "login"
+                },
+                {
+                    "to": "#",
+                    "link": "Register"
+                },
+                {
+                    "to": "#",
+                    "link": "Wishlist"
+                },
+                {
+                    "to": "#",
+                    "link": "Checkout"
+                }
+            ]
+        },
+        {
+            "title": "Your Account",
+            "links": [
+                {
+                    "to": "#",
+                    "link": "login"
+                },
+                {
+                    "to": "#",
+                    "link": "Register"
+                },
+                {
+                    "to": "#",
+                    "link": "Wishlist"
+                },
+                {
+                    "to": "#",
+                    "link": "Checkout"
+                }
+            ]
+        }
+    ]
+}
